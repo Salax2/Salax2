@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey! I'm Mohamed. Most of my time goes into building web applications with Python and Java. Started with automation projects and quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together, especially when everything clicks into place.
+Hi! I'm Mohamed. I started my journey with automation projects and quickly got hooked on development. There's something satisfying about seeing both the frontend and backend come together, especially when everything clicks into place.
 
 Currently, I'm a university student navigating the exciting journey of higher education. University life has been incredible so far - balancing coursework, personal projects, and learning new technologies. The environment has pushed me to grow both technically and personally, and I'm constantly discovering new areas of computer science that fascinate me.
 
@@ -30,9 +30,11 @@ I'm always down to collaborate if you're working on something interesting with P
 ## Featured Projects
 
 [![Uni](https://github-readme-stats.vercel.app/api/pin/?username=Salax2&repo=Uni&theme=tokyonight&hide_border=true)](https://github.com/Salax2/Uni)
+
 [![SwiftBot](https://github-readme-stats.vercel.app/api/pin/?username=Salax2&repo=SwiftBot&theme=tokyonight&hide_border=true)](https://github.com/Salax2/SwiftBot)
 
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salax2&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salax2&layout=compact&theme=tokyonight&hide_border=true)
