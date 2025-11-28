@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Python+%26+Java+Specialist;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 ## About Me
 
